@@ -13,6 +13,6 @@
 ## Outcome
 
  > html page
- 1. 
+   ![page1](https://user-images.githubusercontent.com/62197776/152646773-d62a5e1a-bb57-45fb-99ea-30015913f05c.jpg)
  > jsp page
- 2. ![photo_2022-02-05_20-17-38](https://user-images.githubusercontent.com/62197776/152646728-0ca1fd1d-3e11-4492-b74c-1f72378eed0e.jpg)
+   ![photo_2022-02-05_20-17-38](https://user-images.githubusercontent.com/62197776/152646728-0ca1fd1d-3e11-4492-b74c-1f72378eed0e.jpg)
