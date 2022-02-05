@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Student Info</title>
+<link rel="stylesheet" href="style.css">
+<style>
+body
+{ 
+  background-image:url('zimage/class.jpg');
+}
+
+</style>
+</head>
+<body ">
+  <div class = "top">
+      <ul class = "nav-bar">
+         <li><a href ="#home">Home</a></li>
+         <li><a href ="#contact">Contact</a></li>
+         <li><a href ="#about">About Me</a></li>
+      </ul>
+  </div>
+  <div class = "formid">
+  <form action="main.jsp">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+   
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" placeholder="mail id">
+    
+    <label >Qualification</label>
+    <select id="option" name="option">
+      <option value="be">B.E</option>
+      <option value="b.tech">B.tech</option>
+    </select>
+    <label for="mobile">Mobile no<input type="text"  name="mobileno" placeholder="mobile number"></label>
+    
+     <label>Gender</label>
+    <input type="radio"  name="gender" value="male">Male
+    <input type="radio"  name="gender" value="female">Female<br><br>
+    <label for="age">Age <input type="text"  name="age" placeholder="Your age"></label>
+   
+    <input type="submit" value="Submit" >
+    
+  </form>
+  
+</div>
+</body>
+</html>
